@@ -1,0 +1,1 @@
+Сreating a small movie server on Node JS and PostgreSQL with the implementation of CRUD operations
